@@ -1,0 +1,86 @@
+import React from "react";
+import logo from "../../assets/logo.png";
+import { Link, Links, NavLink } from "react-router";
+import { FaGithub } from "react-icons/fa";
+
+const Navbar = () => {
+  const link = (
+    <>
+      <NavLink
+        to="/"
+        className={({ isActive }) => (isActive ? "active-link" : "")}
+      >
+        Home
+      </NavLink>
+      <NavLink
+        to="/apps"
+        className={({ isActive }) => (isActive ? "active-link" : "")}
+      >
+        Apps
+      </NavLink>
+      <NavLink
+        to="/installation"
+        className={({ isActive }) => (isActive ? "active-link" : "")}
+      >
+        Installation
+      </NavLink>
+    </>
+  );
+
+  return (
+    <div className="navbar bg-base-100 shadow-sm">
+      <div className="navbar-start">
+        <div className="dropdown">
+          <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-5 w-5"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              {" "}
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M4 6h16M4 12h8m-8 6h16"
+              />{" "}
+            </svg>
+          </div>
+          <ul
+            tabIndex="-1"
+            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+          >
+            {link}
+          </ul>
+        </div>
+
+        <div className="flex  items-center gap-2.5">
+          <img className="h-[40px] w-[40px]" src={logo} alt="log image" />
+          <a className=" text-xl text-[#632EE3] font-bold " href="/">
+            HERO.IO
+          </a>
+        </div>
+      </div>
+      <div className="navbar-center hidden lg:flex">
+        <ul className="menu menu-horizontal px-1 flex gap-6 font-semibold text-[17px] ">
+          {link}
+        </ul>
+      </div>
+      <div className="navbar-end">
+        <Link to={"https://github.com/biresh375"}>
+          <button
+            
+            className="btn text-[18px] font-semibold text-white bg-linear-to-tl from-[#9F62F2] to-[#632EE3]"
+          >
+            <FaGithub />
+            Contribute
+          </button>
+        </Link>
+      </div>
+    </div>
+  );
+};
+
+export default Navbar;
