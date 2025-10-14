@@ -1,16 +1,19 @@
-import React from 'react';
-import Navbar from '../Navbar/navbar';
-import { Outlet } from 'react-router';
-import Footer from '../Footer/Footer';
+import React from "react";
+import Navbar from "../Navbar/navbar";
+import { Outlet } from "react-router";
+import Footer from "../Footer/Footer";
 
 const Roots = () => {
-    return (
-        <div className='max-w-[1400px] mx-auto'>
-            <Navbar></Navbar>
-            <Outlet></Outlet>
-            <Footer></Footer>
-        </div>
-    );
+  
+  return (
+    <>
+      <div className="">
+        <Navbar></Navbar>
+        <Outlet></Outlet>
+      </div>
+      <Footer></Footer>
+    </>
+  );
 };
 
 export default Roots;
