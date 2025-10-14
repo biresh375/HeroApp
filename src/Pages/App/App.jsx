@@ -1,8 +1,9 @@
 import React from "react";
 import { FaDownload, FaStar } from "react-icons/fa";
 
-const HomeApp = ({ homeApp }) => {
-  const { downloads, ratingAvg, title, image } = homeApp;
+const App = ({ Aps }) => {
+    // console.log(Aps);
+  const { downloads, ratingAvg, title, image } = Aps;
   return (
     <div className="shadow-sm p-4 rounded-xl bg-white">
       <div className="flex justify-center">
@@ -28,4 +29,4 @@ const HomeApp = ({ homeApp }) => {
   );
 };
 
-export default HomeApp;
+export default App;

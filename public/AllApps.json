@@ -1,0 +1,506 @@
+[
+  {
+    "image": "https://i.ibb.co/4gnXSWDy/pixel-Wave-Studios.png",
+    "title": "PhotoEdit Lite",
+    "companyName": "PixelWave Studios",
+    "id": 1,
+    "description": "PhotoEdit Lite is a simple yet powerful photo editing app that allows users to enhance images quickly. It features filters, brightness and contrast adjustments, cropping tools, and basic retouching options. Users can create collages, add text or stickers, and share directly to social media platforms. Lightweight and fast, it works offline and syncs projects when online. Ideal for beginners and casual photographers, PhotoEdit Lite makes photo editing fun and accessible for everyone. Its intuitive interface ensures users can achieve professional-looking results in minutes, whether for social posts, personal albums, or creative projects.",
+    "size": 50,
+    "reviews": 8500,
+    "ratingAvg": 4.4,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4630 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/VWGktL6K/healthsyncltd.jpg",
+    "title": "FitTrack Mini",
+    "companyName": "HealthSync Ltd.",
+    "id": 2,
+    "description": "FitTrack Mini helps users monitor fitness activities and track health goals easily. It tracks steps, distance, and calories burned, and provides daily workout suggestions. Users can log meals, monitor hydration, and check progress through visual charts. The app integrates with wearable devices and supports offline mode. Motivational challenges and reminders keep users engaged, while a clean interface makes navigation easy. FitTrack Mini is perfect for beginners and casual fitness enthusiasts who want to stay active and maintain a healthy lifestyle without overwhelming complexity.",
+    "size": 40,
+    "reviews": 7200,
+    "ratingAvg": 4.3,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 580 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 2470 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/xqcnyv4n/Focus-Apps-Inc.jpg",
+    "title": "TaskFlow",
+    "companyName": "FocusApps Inc.",
+    "id": 3,
+    "description": "TaskFlow is a productivity app designed to help users manage tasks and schedules efficiently. Users can create task lists, set priorities, and receive reminders. Recurring tasks and progress tracking ensure nothing is forgotten. The app supports collaborative projects for teams and syncs across devices for easy access. With a clean, intuitive interface and optional dark mode, TaskFlow makes staying organized simple and stress-free. Ideal for professionals, students, or anyone seeking productivity improvement, TaskFlow turns daily planning into a streamlined and effective routine.",
+    "size": 35,
+    "reviews": 13200,
+    "ratingAvg": 4.6,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4600 },
+      { "name": "5 star", "count": 5050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/mrnvjHJT/Edu-Soft-Global.jpg",
+    "title": "LearnMate",
+    "companyName": "EduSoft Global",
+    "id": 4,
+    "description": "LearnMate is an educational app offering interactive lessons and quizzes for various subjects. Users can track progress, earn achievements, and access study materials offline. The app provides personalized course recommendations based on learning pace and interests. Forums allow users to discuss topics and collaborate on assignments. With video tutorials and clear instructions, LearnMate makes learning enjoyable and accessible. It’s suitable for students of all levels who want to study efficiently, build knowledge, and achieve better results in a structured and engaging way.",
+    "size": 70,
+    "reviews": 10250,
+    "ratingAvg": 4.5,
+    "downloads": 910000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/HLnj2RbN/Wave-Tune-Ltd.jpg",
+    "title": "SoundWave",
+    "companyName": "WaveTune Ltd.",
+    "id": 5,
+    "description": "SoundWave is a music streaming app that provides access to millions of tracks and playlists. Users can create playlists, follow artists, and discover new music through AI-driven recommendations. Offline listening and high-quality audio ensure uninterrupted enjoyment. The app features curated mood-based playlists, trending charts, and collaborative playlist options for sharing with friends. SoundWave’s intuitive interface makes discovering, managing, and listening to music simple and enjoyable. Perfect for casual listeners and music enthusiasts who want a personalized and immersive music experience on the go.",
+    "size": 110,
+    "reviews": 18400,
+    "ratingAvg": 4.4,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 1400 },
+      { "name": "2 star", "count": 2200 },
+      { "name": "3 star", "count": 5600 },
+      { "name": "4 star", "count": 9200 },
+      { "name": "5 star", "count": 8980 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/rK2TryMs/Chatter-Box-Co.jpg",
+    "title": "QuickChat",
+    "companyName": "ChatterBox Co.",
+    "id": 6,
+    "description": "QuickChat is a messaging app that supports text, voice, and video communication. Users can create group chats, share files, and use stickers and emojis. End-to-end encryption ensures privacy and security. Cloud backup keeps chats safe and accessible across devices. QuickChat also provides a status feature for sharing moments and optional self-destruct messages for confidential conversations. Its lightweight design ensures fast delivery, making communication smooth and reliable. Ideal for personal and professional use, QuickChat keeps users connected anytime, anywhere.",
+    "size": 95,
+    "reviews": 15200,
+    "ratingAvg": 4.3,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 2800 },
+      { "name": "3 star", "count": 5400 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/R4kgV63M/Sky-Bound-Tech.png",
+    "title": "TravelGuide",
+    "companyName": "SkyBound Tech",
+    "id": 7,
+    "description": "TravelGuide helps users plan trips, book hotels, and explore attractions worldwide. It provides itineraries, maps, currency converters, and offline access for seamless travel. Users can read reviews, check ratings, and discover local hidden gems. AI recommendations suggest activities based on preferences. Collaborative trip planning allows friends and family to coordinate efficiently. TravelGuide also provides travel tips, packing lists, and emergency info for safe and organized journeys. Perfect for travelers who want convenience, exploration, and a stress-free travel experience in a single app.",
+    "size": 85,
+    "reviews": 12100,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 1020 },
+      { "name": "4 star", "count": 4020 },
+      { "name": "5 star", "count": 5430 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/35Rkv2hT/play-Forgestudios.jpg",
+    "title": "ArcadeFun",
+    "companyName": "PlayForge Studios",
+    "id": 8,
+    "description": "ArcadeFun is a gaming platform offering a variety of mini-games for players of all ages. Users can enjoy puzzles, racing, strategy, and arcade challenges. The app includes achievements, leaderboards, and multiplayer options to enhance engagement. Weekly updates provide new games and events. Offline play allows gaming without internet access. Intuitive controls and responsive design make gameplay smooth and enjoyable. ArcadeFun is perfect for casual players seeking fun and competitive gaming experiences on mobile devices.",
+    "size": 140,
+    "reviews": 19400,
+    "ratingAvg": 4.2,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 5800 },
+      { "name": "2 star", "count": 6400 },
+      { "name": "3 star", "count": 7200 },
+      { "name": "4 star", "count": 4400 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TBh14Qfv/Finance-Pro-Inc.png",
+    "title": "BudgetTrack",
+    "companyName": "FinancePro Inc.",
+    "id": 9,
+    "description": "BudgetTrack helps users manage personal finances, track expenses, and set saving goals. Users can categorize spending, visualize reports, and receive alerts for overspending. The app supports multiple accounts and syncs securely. BudgetTrack provides insights and tips to improve financial health, making it ideal for individuals seeking better money management.",
+    "size": 55,
+    "reviews": 9500,
+    "ratingAvg": 4.4,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/5WQs9Hwq/Neuro-Tech-Labs.jpg",
+    "title": "MindRelax",
+    "companyName": "NeuroTech Labs",
+    "id": 10,
+    "description": "MindRelax is a meditation and mindfulness app offering guided sessions, relaxing sounds, and breathing exercises. Users can reduce stress, improve focus, and sleep better. The app tracks progress and recommends personalized routines. MindRelax is suitable for beginners and experienced meditators, making mindfulness accessible anytime, anywhere.",
+    "size": 60,
+    "reviews": 7800,
+    "ratingAvg": 4.5,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3120 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/HTMNGYQg/Kitchen-Pro-Apps.png",
+    "title": "RecipeBook",
+    "companyName": "KitchenPro Apps",
+    "id": 11,
+    "description": "RecipeBook is a cooking app with thousands of recipes, step-by-step instructions, and video tutorials. Users can filter recipes by ingredients, diet, or cooking time. The app allows saving favorites, creating shopping lists, and offline access. Personalized recommendations help discover new dishes, and users can share their creations with friends. RecipeBook makes cooking fun, efficient, and accessible for beginners and food enthusiasts alike.",
+    "size": 95,
+    "reviews": 8600,
+    "ratingAvg": 4.4,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 3160 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TxzbMsJ0/Dream-Tech-Inc.jpg",
+    "title": "SleepTracker",
+    "companyName": "DreamTech Inc.",
+    "id": 12,
+    "description": "SleepTracker monitors sleep patterns, including duration, stages, and interruptions. Users can access sleep statistics, set smart alarms, and use calming sounds for better rest. The app includes guided meditation, bedtime reminders, and sleep tips. Offline mode ensures uninterrupted tracking. SleepTracker helps users improve sleep quality, reduce fatigue, and feel refreshed daily. Ideal for anyone seeking better health through improved sleep habits.",
+    "size": 65,
+    "reviews": 7200,
+    "ratingAvg": 4.5,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 460 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 2590 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/FqsdVbgN/Play-Forge-Studios.webp",
+    "title": "GameHub",
+    "companyName": "PlayForge Studios",
+    "id": 13,
+    "description": "GameHub is a gaming app offering a collection of fun mini-games across multiple genres. Users can play offline, compete on leaderboards, and earn achievements. Regular updates provide new games and challenges. The app supports multiplayer sessions and includes customizable avatars. GameHub is perfect for casual players looking for entertainment anytime, anywhere. Its simple interface and responsive design ensure smooth gameplay for users of all ages.",
+    "size": 135,
+    "reviews": 12800,
+    "ratingAvg": 4.3,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/qFLWncLy/Wave-Tune-Ltd.jpg",
+    "title": "MusicStream",
+    "companyName": "WaveTune Ltd.",
+    "id": 14,
+    "description": "MusicStream allows users to discover, stream, and download millions of songs. The app includes curated playlists, daily recommendations, and offline playback. Users can create personal playlists, follow artists, and share music with friends. Its simple interface ensures an enjoyable listening experience. MusicStream is ideal for casual listeners and music enthusiasts who want a personalized and engaging music platform on mobile devices.",
+    "size": 115,
+    "reviews": 15200,
+    "ratingAvg": 4.4,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 7800 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/1Ypb2Z3C/Edu-Soft-Global.png",
+    "title": "StudyBuddy",
+    "companyName": "EduSoft Global",
+    "id": 15,
+    "description": "StudyBuddy is an educational app offering quizzes, flashcards, and interactive lessons. Users can track progress, set learning goals, and access offline study material. The app provides personalized course recommendations and allows users to collaborate through discussion forums. StudyBuddy makes learning organized, fun, and effective for students of all levels. It’s a helpful companion for exam preparation and skill-building.",
+    "size": 70,
+    "reviews": 8100,
+    "ratingAvg": 4.5,
+    "downloads": 670000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3210 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/4gnXSWDy/pixel-Wave-Studios.png",
+    "title": "QuickEdit",
+    "companyName": "PixelWave Studios",
+    "id": 16,
+    "description": "QuickEdit is a lightweight photo editor that provides essential tools like filters, cropping, and color adjustment. Users can add text, stickers, and create collages. Offline functionality and cloud sync make editing convenient. QuickEdit is ideal for users who want simple, fast, and effective photo editing on the go. The intuitive interface ensures anyone can enhance their images easily, making social sharing or personal projects hassle-free.",
+    "size": 45,
+    "reviews": 7900,
+    "ratingAvg": 4.3,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 470 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 2340 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/kg6s7zxT/FitLife.png",
+    "title": "FitLife",
+    "companyName": "HealthSync Ltd.",
+    "id": 17,
+    "description": "FitLife helps users track workouts, monitor health stats, and achieve fitness goals. It includes step counting, calorie tracking, and daily workout recommendations. Integration with wearables and offline mode ensures convenient usage. The app motivates users through challenges, progress tracking, and achievements. FitLife is designed for beginners and casual fitness enthusiasts seeking an easy-to-use, engaging platform to maintain an active and healthy lifestyle.",
+    "size": 50,
+    "reviews": 8400,
+    "ratingAvg": 4.4,
+    "downloads": 710000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 560 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 3140 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Y49dc7Dd/Task-Planner.webp",
+    "title": "TaskPlanner",
+    "companyName": "FocusApps Inc.",
+    "id": 18,
+    "description": "TaskPlanner is a simple productivity app for managing daily tasks, deadlines, and schedules. Users can create to-do lists, set priorities, and receive reminders. Collaborative features allow teamwork, and cloud sync ensures access across devices. TaskPlanner’s interface is clean and intuitive, making organization easy. Suitable for professionals, students, and anyone who wants to stay productive and manage their time efficiently.",
+    "size": 38,
+    "reviews": 8800,
+    "ratingAvg": 4.5,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 570 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 2590 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/ym2ckLbk/Travel-Map.jpg",
+    "title": "TravelMap",
+    "companyName": "SkyBound Tech",
+    "id": 19,
+    "description": "TravelMap helps users explore destinations, find hotels, and plan itineraries. The app provides maps, offline access, currency conversion, and travel tips. AI suggestions recommend attractions based on user preferences. Collaborative planning and emergency info ensure safe, organized trips. TravelMap simplifies travel, making planning, discovery, and exploration easy and convenient for every traveler.",
+    "size": 90,
+    "reviews": 7400,
+    "ratingAvg": 4.4,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 2660 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TM2HXwq5/Mind-Focus.png",
+    "title": "MindFocus",
+    "companyName": "NeuroTech Labs",
+    "id": 20,
+    "description": "MindFocus is a cognitive training app with puzzles, memory games, and attention exercises. Users can track progress, set daily goals, and improve mental skills. The app includes brain challenges, meditation tips, and progress analytics. MindFocus is suitable for all ages, helping users enhance focus, memory, and mental clarity through daily engaging exercises.",
+    "size": 60,
+    "reviews": 7800,
+    "ratingAvg": 4.5,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3110 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/39fV395c/photo-Edidpro.jpg",
+    "title": "Photo Edit Pro",
+    "companyName": "PixelWave Studios",
+    "id": 21,
+    "description": "Photo Edit Pro is an advanced yet easy-to-use photo editing app designed for both beginners and professionals. With a wide range of AI-powered tools, users can enhance their photos instantly with just one tap. The app includes automatic background removal, skin retouching, color correction, and dozens of artistic filters inspired by popular styles. Whether you want to create eye-catching social media posts or professional-quality portraits, Photo Edit Pro gives you complete creative freedom. Its built-in collage maker, text editor, and sticker library make designing fun and fast. You can also adjust brightness, contrast, sharpness, and saturation with precision sliders. The AI Filter Lab continuously updates with new effects every week, keeping your creativity fresh. Export your final creations in high resolution without losing detail, and share them directly on Instagram, Facebook, or any platform you prefer. Lightweight and efficient, Photo Edit Pro works offline and syncs projects securely when online. Designed with a modern interface and smooth performance, it makes photo editing accessible to everyone. Start turning ordinary pictures into extraordinary art in seconds with Photo Edit Pro — your all-in-one creative studio on mobile.",
+    "size": 85,
+    "reviews": 15420,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 1420 },
+      { "name": "4 star", "count": 3870 },
+      { "name": "5 star", "count": 10230 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/qYfDcNB4/Fit-Track-Daily.webp",
+    "title": "FitTrack Daily",
+    "companyName": "HealthSync Ltd.",
+    "id": 22,
+    "description": "FitTrack Daily helps you build a healthy lifestyle with smart tracking, motivation, and progress visualization. Whether your goal is weight loss, muscle gain, or overall wellness, FitTrack makes it achievable through clear data and daily encouragement. The app tracks your steps, distance, and calories burned using real-time motion sensors. You can connect it with your smartwatch or manually log workouts for accurate statistics. FitTrack’s built-in meal planner and water tracker help you maintain a balanced diet while staying hydrated. Personalized workout plans, designed by fitness experts, adapt as you progress to ensure consistent improvement. The dashboard gives easy access to weekly summaries, achievement badges, and motivational challenges with friends. FitTrack also provides guided meditation and breathing exercises to promote mental well-being. You’ll receive gentle reminders to move, stretch, and drink water throughout your day. The app’s clean interface makes navigation simple, while the analytics engine turns complex health data into easy-to-understand visuals. All data syncs securely to the cloud, ensuring your fitness history is always safe and accessible. With FitTrack Daily, you can stay consistent, track progress effortlessly, and celebrate every milestone on your journey to a healthier, stronger you.",
+    "size": 60,
+    "reviews": 9840,
+    "ratingAvg": 4.4,
+    "downloads": 870000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 870 },
+      { "name": "4 star", "count": 3250 },
+      { "name": "5 star", "count": 5170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/ZR8K3vmM/Taskmaster-logo.jpg",
+    "title": "TaskMaster",
+    "companyName": "FocusApps Inc.",
+    "id": 23,
+    "description": "TaskMaster is your ultimate productivity companion, designed to help you organize, focus, and achieve more every day. Whether you’re managing work projects, personal goals, or daily errands, TaskMaster keeps everything streamlined. Create unlimited task lists, set priorities, and break big goals into smaller, actionable steps. Smart reminders ensure you never miss a deadline, while recurring task options help automate repetitive routines. The calendar view gives a clear overview of your schedule, and progress tracking keeps you motivated. Collaboration tools allow teams to share projects, assign tasks, and discuss updates directly within the app. TaskMaster syncs across all your devices, so your plans are always accessible, even offline. Its minimal design promotes focus, and the dark mode ensures comfortable viewing day or night. Built-in analytics show how you spend your time, helping you identify areas to improve productivity. Integrations with Google Calendar and cloud services make it even more powerful. From students to professionals, TaskMaster helps users stay organized and stress-free. If you want to take control of your time and achieve more with less effort, TaskMaster is the perfect digital assistant to keep your life balanced and productive every day.",
+    "size": 45,
+    "reviews": 20430,
+    "ratingAvg": 4.8,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 590 },
+      { "name": "3 star", "count": 1410 },
+      { "name": "4 star", "count": 5030 },
+      { "name": "5 star", "count": 12950 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/RpscfKwY/learnly.jpg",
+    "title": "Learnly",
+    "companyName": "EduSoft Global",
+    "id": 24,
+    "description": "Learnly is a revolutionary learning platform that makes education interactive, flexible, and fun. It offers thousands of expertly designed courses in coding, design, business, marketing, and more. Every lesson is crafted by professionals and includes engaging video tutorials, quizzes, and projects to test your knowledge. Whether you’re a beginner exploring new skills or an expert refining your craft, Learnly provides step-by-step guidance tailored to your level. The app’s smart recommendation system curates courses based on your goals and learning pace. Track your progress, earn certificates, and share them with employers or LinkedIn to showcase your achievements. Learnly’s discussion forums let you connect with instructors and learners worldwide, making education a social experience. You can download lessons for offline learning and access them anytime. New courses are added weekly to keep you updated with industry trends. With Learnly, education becomes an inspiring journey where curiosity meets opportunity. It’s more than just a learning app — it’s your personal mentor, guiding you toward success one lesson at a time. Unlock your potential today and gain real-world skills that help you grow personally and professionally with Learnly.",
+    "size": 92,
+    "reviews": 31200,
+    "ratingAvg": 4.7,
+    "downloads": 1950000,
+    "ratings": [
+      { "name": "1 star", "count": 580 },
+      { "name": "2 star", "count": 730 },
+      { "name": "3 star", "count": 1750 },
+      { "name": "4 star", "count": 6880 },
+      { "name": "5 star", "count": 21260 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/4ngLLTxg/Soundifymusic.png",
+    "title": "Soundify Music",
+    "companyName": "WaveTune Ltd.",
+    "id": 25,
+    "description": "Soundify Music brings an immersive and personalized listening experience right to your fingertips. Explore millions of tracks across all genres — from pop and rock to classical and lo-fi. The app learns your taste using AI-driven recommendations that get smarter the more you listen. You can build playlists, download songs for offline listening, and stream high-quality audio without interruptions. Soundify’s clean and vibrant interface makes navigation effortless, while its dynamic equalizer lets you fine-tune every beat. For music lovers who crave discovery, Soundify offers daily mixes and trending charts from around the world. You can follow your favorite artists, get notified about new releases, and share playlists with friends. Its social music feature allows collaborative playlist creation in real time. Soundify also supports podcasts, live radio, and curated mood-based playlists for every occasion. With built-in sleep timers and crossfade transitions, your listening experience feels smooth and seamless. Offline mode ensures uninterrupted enjoyment, even without internet access. Soundify Music is more than a player — it’s a complete music ecosystem that connects you to the rhythms of life. Tune in, vibe out, and experience music like never before.",
+    "size": 120,
+    "reviews": 58400,
+    "ratingAvg": 4.5,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 2200 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 7100 },
+      { "name": "4 star", "count": 14200 },
+      { "name": "5 star", "count": 31800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/DDghGzZf/qyucj-Chat.png",
+    "title": "QuickChat Messenger",
+    "companyName": "ChatterBox Co.",
+    "id": 26,
+    "description": "QuickChat Messenger is designed for seamless communication, combining speed, privacy, and fun. With end-to-end encryption, your messages and calls remain secure at all times. The app supports text, voice, and HD video calls, ensuring you stay connected with loved ones or colleagues wherever you are. You can create group chats, share photos, videos, and large files instantly without compromising quality. QuickChat also includes custom emojis, themes, and stickers that let you express yourself uniquely. Its lightweight design ensures fast message delivery even on slow networks. A built-in status feature lets you share your moments through short videos or images. QuickChat’s cloud backup keeps your chats safe and easily restorable on new devices. The app offers optional self-destruct messages for extra privacy and a hidden chat mode for sensitive conversations. It supports multiple languages, making global communication effortless. With notifications optimized for battery efficiency, you’ll never miss an important message. Whether for business or personal use, QuickChat Messenger keeps your conversations smooth, fast, and secure — the way communication should be in today’s connected world.",
+    "size": 98,
+    "reviews": 47300,
+    "ratingAvg": 4.3,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 3100 },
+      { "name": "2 star", "count": 4100 },
+      { "name": "3 star", "count": 9200 },
+      { "name": "4 star", "count": 13300 },
+      { "name": "5 star", "count": 17600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/gMD5BjNT/Travelmate.png",
+    "title": "TravelMate",
+    "companyName": "SkyBound Tech",
+    "id": 27,
+    "description": "TravelMate is the perfect travel companion for explorers and adventurers. From flight bookings to hotel reservations and local experiences, everything you need for your journey is in one app. The intuitive interface allows you to plan trips, discover destinations, and manage itineraries effortlessly. Get real-time flight updates, weather forecasts, and currency conversions while on the go. TravelMate’s AI-powered recommendation engine suggests attractions, restaurants, and activities based on your preferences. You can save favorite spots, read traveler reviews, and access detailed maps even offline. The app also helps you budget efficiently by tracking expenses and finding cost-effective travel options. Its integrated language translator makes communication easy abroad. For group travelers, collaborative trip planning ensures everyone stays on the same page. TravelMate’s travel blog and community let users share stories and tips from around the world. With security alerts and emergency assistance info, your safety is always a priority. Lightweight, fast, and reliable, TravelMate simplifies your adventures and makes travel planning stress-free. Wherever you go, TravelMate helps you explore confidently and create unforgettable memories along the way.",
+    "size": 80,
+    "reviews": 26800,
+    "ratingAvg": 4.6,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 750 },
+      { "name": "2 star", "count": 980 },
+      { "name": "3 star", "count": 2340 },
+      { "name": "4 star", "count": 6530 },
+      { "name": "5 star", "count": 16200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/35Rkv2hT/play-Forgestudios.jpg",
+    "title": "GameSpark Arcade",
+    "companyName": "PlayForge Studios",
+    "id": 28,
+    "description": "GameSpark Arcade is an all-in-one gaming platform offering endless entertainment for every kind of player. Dive into a world of 100+ mini-games spanning genres like puzzle, racing, strategy, and arcade classics. The app is lightweight yet packed with rich graphics and smooth gameplay optimized for all devices. You can challenge friends, compete on leaderboards, and earn in-game rewards for achievements. GameSpark updates weekly with new titles to keep the excitement alive. Its smart recommendation system learns your preferences and suggests games you’ll love. Each game features multiple difficulty levels, allowing both casual players and hardcore gamers to enjoy at their own pace. GameSpark’s community hub connects players worldwide through live chats and tournaments. You can customize avatars, unlock achievements, and track your gaming stats in one place. Offline play ensures fun even without internet access. The clean UI, responsive controls, and minimal ads make GameSpark Arcade one of the most user-friendly gaming experiences available. Whether you want a quick five-minute challenge or hours of immersive fun, GameSpark Arcade delivers nonstop action anytime, anywhere.",
+    "size": 150,
+    "reviews": 88400,
+    "ratingAvg": 4.2,
+    "downloads": 6900000,
+    "ratings": [
+      { "name": "1 star", "count": 7500 },
+      { "name": "2 star", "count": 8800 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 19000 },
+      { "name": "5 star", "count": 40100 }
+    ]
+  }
+]
