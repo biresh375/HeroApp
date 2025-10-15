@@ -2,6 +2,7 @@ import React from "react";
 import { BiStar } from "react-icons/bi";
 import { FaDownload } from "react-icons/fa";
 import { stordedApp } from "../../../Utility/addToDb";
+import { toast } from "react-toastify";
 
 const InstallCard = ({ data, dbinstalledData, setDbinstalledData }) => {
   console.log(data);
@@ -15,6 +16,7 @@ const InstallCard = ({ data, dbinstalledData, setDbinstalledData }) => {
     localStorage.setItem("installed", JSON.stringify(updatedApps));
 
     setDbinstalledData(dbinstalledData.filter((app) => app.id !== id));
+    toast("Uninstall successfully completed")
   };
 
   return (

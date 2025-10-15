@@ -14,6 +14,7 @@ import {
   YAxis,
 } from "recharts";
 import { addToStoreDB, stordedApp } from "../../Utility/addToDb";
+import { toast } from "react-toastify";
 
 const AppDetails = () => {
   const [clickInstall, setClickInstall] = useState(false);
@@ -51,6 +52,7 @@ const AppDetails = () => {
   const handleInstallBtn = (id) => {
     setClickInstall(true);
     addToStoreDB(id);
+    toast("Install successfully completed");
   };
   // console.log(installData);
 
