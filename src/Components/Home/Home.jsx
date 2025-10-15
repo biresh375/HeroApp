@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Suspense } from "react";
 import Navbar from "../Navbar/navbar";
 import { Outlet } from "react-router";
 import Footer from "../Footer/Footer";
@@ -12,6 +12,7 @@ const Home = () => {
   return (
     <div>
       <Banner></Banner>
+
       <TrendingApps></TrendingApps>
     </div>
   );

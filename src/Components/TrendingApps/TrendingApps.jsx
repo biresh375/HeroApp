@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Suspense } from "react";
 import { Link, useLoaderData } from "react-router";
 import HomeApp from "../HomeApp/HomeApp";
 
@@ -13,11 +13,13 @@ const TrendingApps = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
+
       <div className="grid grid-cols-4 gap-10">
         {HomeAppsData.map((homeApp) => (
           <HomeApp key={homeApp.id} homeApp={homeApp}></HomeApp>
         ))}
       </div>
+
       <div className="flex justify-center mt-10">
         <Link to={"/apps"}>
           <button className="btn text-xl bg-linear-to-tl from-[#9F62F2] to-[#632EE3] text-white">

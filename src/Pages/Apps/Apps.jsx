@@ -4,7 +4,7 @@ import App from "../App/App";
 
 const Apps = () => {
   const AllAppsData = useLoaderData();
-  console.log(AllAppsData);
+//   console.log(AllAppsData);
   return (
     <div className="my-20 max-w-[1400px] mx-auto">
       <div className="text-center">

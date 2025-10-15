@@ -5,6 +5,8 @@ import Roots from "../Components/Roots/Roots";
 import Apps from "../Pages/Apps/Apps";
 import Installation from "../Pages/Installation/Installation";
 import ErrorPage from "../Pages/Errorpage/ErrorPage";
+import AppDetails from "../Pages/AppDetails/AppDetails";
+import AppNotFound from "../Pages/AppNotFound/AppNotFound";
 
 const Router = createBrowserRouter([
   {
@@ -16,14 +18,25 @@ const Router = createBrowserRouter([
       {
         index: true,
         path: "/",
-        loader: () => fetch("HomeData.json"),
-
+        loader: async () => await fetch("/HomeData.json"),
         Component: Home,
       },
-      { path: "/apps",
-        loader:()=>fetch("AllApps.json"),
-        Component: Apps },
-      { path: "/installation", Component: Installation },
+      {
+        path: "/apps",
+        loader: () => fetch("/AllApps.json"),
+        Component: Apps,
+      },
+      {
+        path: "/app_details/:id",
+        loader: () => fetch("/AllApps.json"),
+        Component: AppDetails,
+        errorElement:<AppNotFound></AppNotFound>
+      },
+      {
+        path: "/installation",
+        loader: () => fetch("/AllApps.json"),
+        Component: Installation,
+      },
     ],
   },
   {},
